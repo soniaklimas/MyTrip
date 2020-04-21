@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/MyTrip/static/js/main.22b89a98.chunk.js",
-    "main.js.map": "/MyTrip/static/js/main.22b89a98.chunk.js.map",
+    "main.js": "/MyTrip/static/js/main.9a9179e3.chunk.js",
+    "main.js.map": "/MyTrip/static/js/main.9a9179e3.chunk.js.map",
     "runtime-main.js": "/MyTrip/static/js/runtime-main.89bfccbe.js",
     "runtime-main.js.map": "/MyTrip/static/js/runtime-main.89bfccbe.js.map",
     "static/js/2.89becd79.chunk.js": "/MyTrip/static/js/2.89becd79.chunk.js",
     "static/js/2.89becd79.chunk.js.map": "/MyTrip/static/js/2.89becd79.chunk.js.map",
     "index.html": "/MyTrip/index.html",
-    "precache-manifest.a5a3b1ae12dfaa51228138f5f5533189.js": "/MyTrip/precache-manifest.a5a3b1ae12dfaa51228138f5f5533189.js",
+    "precache-manifest.f7e466ba519d66d15e144251a3695c3f.js": "/MyTrip/precache-manifest.f7e466ba519d66d15e144251a3695c3f.js",
     "service-worker.js": "/MyTrip/service-worker.js",
     "static/js/2.89becd79.chunk.js.LICENSE.txt": "/MyTrip/static/js/2.89becd79.chunk.js.LICENSE.txt",
     "static/media/chain.svg": "/MyTrip/static/media/chain.b76bfe5b.svg",
@@ -22,6 +22,6 @@
   "entrypoints": [
     "static/js/runtime-main.89bfccbe.js",
     "static/js/2.89becd79.chunk.js",
-    "static/js/main.22b89a98.chunk.js"
+    "static/js/main.9a9179e3.chunk.js"
   ]
 }
