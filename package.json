@@ -1,8 +1,8 @@
 {
-  "hompepage": "https://soniaklimas.github.io/MyTrip",
   "name": "my_trip",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://soniaklimas.github.io/MyTrip/",
   "dependencies": {
     "@storybook/addon-knobs": "^5.3.18",
     "@testing-library/jest-dom": "^4.2.4",

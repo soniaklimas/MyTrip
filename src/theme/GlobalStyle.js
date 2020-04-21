@@ -2,6 +2,7 @@ import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyle = createGlobalStyle`
 @import url('https://fonts.googleapis.com/css2?family=Muli:wght@500;700&display=swap');
+
 *, *::before, *::after{
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased;
@@ -15,8 +16,9 @@ const GlobalStyle = createGlobalStyle`
 
 body{
   padding-left: 120px;
+ font-family: 'Muli', sans-serif;
   font-size: 1.6rem;
-  font-family: 'Muli', sans-serif;
+
 }`;
 
 export default GlobalStyle;
