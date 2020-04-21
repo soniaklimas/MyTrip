@@ -11,6 +11,10 @@ import withContext from 'hoc/withContext';
 const StyledWrapper = styled.div`
   position: relative;
   padding: 25px 150px 25px 70px;
+
+  @media (max-width: 576px) {
+    padding: 25px 10px 25px 20px;
+  }
 `;
 
 const StyledGrid = styled.div`

@@ -24,6 +24,10 @@ const StyledWrapper = styled.nav`
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+
+   @media (max-width: 576px) {
+    width: 70px;
+  }
 `;
 
 const StyledLogoLink = styled(NavLink)`
@@ -36,6 +40,10 @@ const StyledLogoLink = styled(NavLink)`
   background-size: 100%;
   border: none;
   margin-bottom: 8vh;
+
+  @media (max-width: 576px) {
+    width: 80px;
+  }
 `;
 
 const StyledLogoutButton = styled(ButtonIcon)`

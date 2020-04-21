@@ -14,11 +14,27 @@ const ButtonIcon = styled.button`
     background-color: white;
   }
 
+  @media (max-width: 576px) {
+    width: 40px;
+    height: 40px;
+  }
+
   ${({ card }) =>
     card &&
     css`
       width: 40px;
       height: 40px;
+    `}
+
+  ${({ card }) =>
+    card &&
+    css`
+      width: 40px;
+      height: 40px;
+      @media (max-width: 576px) {
+        width: 25px;
+        height: 25px;
+      }
     `}
 `;
 

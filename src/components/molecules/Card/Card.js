@@ -21,6 +21,10 @@ const StyledWrapper = styled.div`
   position: relative;
   display: grid;
   grid-template-rows: 0.25fr 1fr;
+
+  @media (max-width: 576px) {
+    min-height: 200px;
+  }
 `;
 
 const InnerWrapper = styled.div`
@@ -44,6 +48,10 @@ const InnerWrapper = styled.div`
 const StyledHeading = styled(Heading)`
   margin: 5px 0 0;
   padding-right: ${({ pageContext, twitters }) => (pageContext === twitters ? '50px' : '20px')};
+
+  @media (max-width: 576px) {
+    padding-right: ${({ pageContext, twitters }) => (pageContext === twitters ? '30px' : '20px')};
+  }
 `;
 
 const StyledAvatar = styled.img`
@@ -54,6 +62,11 @@ const StyledAvatar = styled.img`
   right: 15px;
   top: 50%;
   transform: translateY(-50%);
+
+  @media (max-width: 576px) {
+    width: 50px;
+    height: 50px;
+  }
 `;
 
 const StyledLinkButton = styled.a`

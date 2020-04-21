@@ -24,6 +24,11 @@ const StyledWrapper = styled.div`
   box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
   transform: translate(${({ isVisible }) => (isVisible ? '0' : '100%')});
   transition: transform 0.25s ease-in-out;
+
+  @media (max-width: 576px) {
+    width: 80vw;
+    padding: 50px 10px;
+  }
 `;
 
 const StyledForm = styled(Form)`
@@ -32,14 +37,12 @@ const StyledForm = styled(Form)`
 `;
 
 const StyledTextArea = styled(Input)`
-  font-family: 'Muli', sans-serif;
   margin: 30px 0 100px;
   border-radius: 20px;
   height: 30vh;
 `;
 
 const StyledInput = styled(Input)`
-  font-family: 'Muli', sans-serif;
   margin-top: 30px;
 `;
 
