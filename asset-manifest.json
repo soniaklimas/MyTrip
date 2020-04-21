@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/MyTrip/static/js/main.e65242a9.chunk.js",
-    "main.js.map": "/MyTrip/static/js/main.e65242a9.chunk.js.map",
-    "runtime-main.js": "/MyTrip/static/js/runtime-main.89bfccbe.js",
-    "runtime-main.js.map": "/MyTrip/static/js/runtime-main.89bfccbe.js.map",
-    "static/js/2.89becd79.chunk.js": "/MyTrip/static/js/2.89becd79.chunk.js",
-    "static/js/2.89becd79.chunk.js.map": "/MyTrip/static/js/2.89becd79.chunk.js.map",
-    "index.html": "/MyTrip/index.html",
-    "precache-manifest.b4f80cfb17ce94357b6bd94b7d82a3aa.js": "/MyTrip/precache-manifest.b4f80cfb17ce94357b6bd94b7d82a3aa.js",
-    "service-worker.js": "/MyTrip/service-worker.js",
-    "static/js/2.89becd79.chunk.js.LICENSE.txt": "/MyTrip/static/js/2.89becd79.chunk.js.LICENSE.txt",
-    "static/media/chain.svg": "/MyTrip/static/media/chain.b76bfe5b.svg",
-    "static/media/idea.svg": "/MyTrip/static/media/idea.d4ed3d26.svg",
-    "static/media/logo.svg": "/MyTrip/static/media/logo.9ab12772.svg",
-    "static/media/logout.svg": "/MyTrip/static/media/logout.2252c0c5.svg",
-    "static/media/pen.svg": "/MyTrip/static/media/pen.76706925.svg",
-    "static/media/plus.svg": "/MyTrip/static/media/plus.1e71bac7.svg",
-    "static/media/rubbish.svg": "/MyTrip/static/media/rubbish.bf60e5e3.svg",
-    "static/media/twitter.svg": "/MyTrip/static/media/twitter.fe9e349f.svg"
+    "main.js": "/MyTrip/notes/static/js/main.295e3105.chunk.js",
+    "main.js.map": "/MyTrip/notes/static/js/main.295e3105.chunk.js.map",
+    "runtime-main.js": "/MyTrip/notes/static/js/runtime-main.88a74294.js",
+    "runtime-main.js.map": "/MyTrip/notes/static/js/runtime-main.88a74294.js.map",
+    "static/js/2.c427ee93.chunk.js": "/MyTrip/notes/static/js/2.c427ee93.chunk.js",
+    "static/js/2.c427ee93.chunk.js.map": "/MyTrip/notes/static/js/2.c427ee93.chunk.js.map",
+    "index.html": "/MyTrip/notes/index.html",
+    "precache-manifest.fe72725f16e75d0910fb147c04ed7450.js": "/MyTrip/notes/precache-manifest.fe72725f16e75d0910fb147c04ed7450.js",
+    "service-worker.js": "/MyTrip/notes/service-worker.js",
+    "static/js/2.c427ee93.chunk.js.LICENSE.txt": "/MyTrip/notes/static/js/2.c427ee93.chunk.js.LICENSE.txt",
+    "static/media/chain.svg": "/MyTrip/notes/static/media/chain.b76bfe5b.svg",
+    "static/media/idea.svg": "/MyTrip/notes/static/media/idea.d4ed3d26.svg",
+    "static/media/logo.svg": "/MyTrip/notes/static/media/logo.9ab12772.svg",
+    "static/media/logout.svg": "/MyTrip/notes/static/media/logout.2252c0c5.svg",
+    "static/media/pen.svg": "/MyTrip/notes/static/media/pen.76706925.svg",
+    "static/media/plus.svg": "/MyTrip/notes/static/media/plus.1e71bac7.svg",
+    "static/media/rubbish.svg": "/MyTrip/notes/static/media/rubbish.bf60e5e3.svg",
+    "static/media/twitter.svg": "/MyTrip/notes/static/media/twitter.fe9e349f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.89bfccbe.js",
-    "static/js/2.89becd79.chunk.js",
-    "static/js/main.e65242a9.chunk.js"
+    "static/js/runtime-main.88a74294.js",
+    "static/js/2.c427ee93.chunk.js",
+    "static/js/main.295e3105.chunk.js"
   ]
 }
